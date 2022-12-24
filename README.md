@@ -2,7 +2,7 @@
 The Final Project of the CS50P online course  – the console version of the Wordle game
 
 ## Description
-This is a final project for HarvardX CS50P course (CS50's Introduction to Programming with Python). This console game Wordle was made by Vasilisa Chebotareva.
+This is a final project for HarvardX CS50P course ([CS50's Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/)). This console game Wordle was made by Vasilisa Chebotareva.
 
 In this game you should guess the 5-letter word in 6 tries. The word is a singular noun, where letters can be repeated.
 
