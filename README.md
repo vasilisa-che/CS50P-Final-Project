@@ -31,7 +31,7 @@ python project.py
 ```
 
 ## Tech used
-Python
+Python 3.10
 
 ## Main files
 
