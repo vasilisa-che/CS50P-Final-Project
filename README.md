@@ -2,14 +2,14 @@
 The Final Project of the CS50P online course  – the console version of the Wordle game
 
 ## Description
-This is a final project for HarvardX CS50P course ([CS50's Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/)). This console game Wordle was made by Vasilisa Chebotareva.
+This is a final project for HarvardX CS50P course ([CS50's Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/)). This terminal version of the Wordle game was made by Vasilisa Chebotareva.
 
 In this game you should guess the 5-letter word in 6 tries. The word is a singular noun, where letters can be repeated.
 
 After every attempt the user sees colored guess distribution.
 - If the letter is in the word and in the right spot, it turns green 🟩
 - If the letter is in the word but in the wrong spot, it turns yellow 🟨
-- If the letter is not in the world, it turns white ⬜
+- If the letter is not in the word, it turns white ⬜
 
 In this program I tried to prevent potential mistakes and added some features.
 1. A target word (which user should guess) is picked randomly from the .txt file with 5-letter nouns.
@@ -41,6 +41,7 @@ Python 3.10
 
 ## Video Demo
 
+[![CS50P Final Project](https://img.youtube.com/vi/62kRkbCIj_U/0.jpg)](https://www.youtube.com/watch?v=62kRkbCIj_U)
 
 ## Acknowledgments
 
