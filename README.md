@@ -39,10 +39,6 @@ Python 3.10
 - test_project.py - three tests of the main program's functions
 - five-letter-words.txt - the list with 5-letter nouns.
 
-## Video Demo
-
-[![CS50P Final Project](https://img.youtube.com/vi/62kRkbCIj_U/0.jpg)](https://www.youtube.com/watch?v=62kRkbCIj_U)
-
 ## Acknowledgments
 
 I would like to express my deepest appreciation to David Malan and the whole CS50 team for entertaining lectures and helpful problem sets. 
